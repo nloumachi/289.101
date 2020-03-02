@@ -1,0 +1,14 @@
+<style>
+.selected {
+color:red;
+font-weight: bold;
+text-decoration: none;
+
+}
+
+<style>
+
+<a href="1.html">1</a>
+<a href="1.html">2</a>
+<a href="1.html">3</a>
+<img src="img/1.png" alt="crude 1"/>
